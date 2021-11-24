@@ -12,11 +12,10 @@ Notes, references and materials about Differential Privacy that I found useful f
 - [ ] [Differentially Private Bayesian Optimization](https://arxiv.org/abs/1501.04080)
 - [ ] [Differentially Private Distributed Convex Optimization via Functional Perturbation](https://arxiv.org/abs/1512.00369)
 - [ ] [Learning with Privacy at Scale - Apple's DP Teams](https://machinelearning.apple.com/research/learning-with-privacy-at-scale)
-- [ ] []
+
 
 
 ## Video Content (Lectures/Tutorials)
 - [ ] [A Course In Differential Privacy](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
 - [ ] [The Definition of Differential Privacy - Cynthia Dwork](https://www.youtube.com/watch?v=lg-VhHlztqo&ab_channel=InstituteforAdvancedStudy)
 - [ ] [Differential Privacy: From Theory to Practice](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1li73YXZdTaiAeXFkmWWRh)
-- [ ] 
